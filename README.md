@@ -87,10 +87,13 @@
 </VirtualHost>
 
 ```
-```bash
-    sudo systemctl restart apache2
-    ```
 
+# Refresh again
+
+```
+bash
+    sudo systemctl restart apache2
+```
 # Configurations for Creating MariaDB User, Firewall, PHP Version, and SSL Module
 
 ## Create MariaDB User
